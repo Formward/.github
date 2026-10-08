@@ -2,7 +2,7 @@
 
 **A form backend hosted in Sweden.** Point any HTML form at one endpoint and get submissions, spam filtering, email notifications, webhooks and exports, without running a server of your own.
 
-Formward is built and operated by [EGF Fastighetsservice AB](https://formward.eu/impressum) in Stockholm. Submissions are stored and processed in the EU; the sub-processor list, the Data Processing Agreement and the transfer-impact statement are public at [formward.eu/compliance](https://formward.eu/compliance).
+Formward is built and operated from Stockholm, Sweden. Submissions are stored and processed in the EU; the sub-processor list, the Data Processing Agreement and the transfer-impact statement are public at [formward.eu/compliance](https://formward.eu/compliance), and the legal notice at [formward.eu/impressum](https://formward.eu/impressum).
 
 ## Start here
 
